@@ -255,7 +255,7 @@ body {
 }
 
 .selected {
-  border-color: red;
+  border-color: #ff003b;
 }
 
 .description {
